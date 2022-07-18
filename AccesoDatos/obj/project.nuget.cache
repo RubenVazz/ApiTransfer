@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ofhhK7rG85+mj0UjIODs5ryMYVoch3mXVxzTtk89uSGEbBAoDI2oDCzRTllEH6ARDjB0wAEl5+uUtvGaeNUDng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rvazquez\\source\\repos\\Transfrencia\\AccesoDatos\\AccesoDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rvazquez\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\rvazquez\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\rvazquez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
